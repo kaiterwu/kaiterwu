@@ -1,4 +1,6 @@
 ## Hi I'm Kaiter, welcome! 
+| JavaScript | React.js | Redux.js | Ruby | Ruby on Rails | MongoDB | Node.js | Express | Jbuilder | SQL | HTML5 | CSS3 | D3 | AWS(S3) |
+|------------|----------|----------|------|---------------|---------|---------|---------|----------|-----|-------|------|----|---------|
 
 ## My other Socials
 <a href="https://www.linkedin.com/in/kaiter-wu-7ba70a62/" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png" alt="alt text" width="100" height="100"></a>
