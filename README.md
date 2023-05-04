@@ -1,5 +1,8 @@
 ## Welcome to my page!
 <img src = "https://media.tenor.com/A0ddDBrnbNYAAAAC/anime-pen-spin.gif">
+<p>
+  Hi, I’m Kaiter, a full stack engineer and former biomedical engineer. Growing up I loved technology and engineering, from building legos, to building computers, and now to building websites! In my career as a former clinical engineer, I sharpened my troubleshooting skills by dealing with all kinds of medical devices. I hope to carry my experiences and skills over to software development; If I can handle the pandemic, I can definitely handle a few bugs! 
+</p>
 
 
 
