@@ -1,4 +1,8 @@
 ## Hi I'm Kaiter, welcome! 
+<img src = "https://media.tenor.com/A0ddDBrnbNYAAAAC/anime-pen-spin.gif">
+
+
+
 | JavaScript | React.js | Redux.js | Ruby | Ruby on Rails | MongoDB | Node.js | Express | Jbuilder | SQL | HTML5 | CSS3 | D3 | AWS(S3) |
 |------------|----------|----------|------|---------------|---------|---------|---------|----------|-----|-------|------|----|---------|
 
