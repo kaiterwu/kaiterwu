@@ -1,4 +1,4 @@
-## Hi I'm Kaiter, welcome! 
+## Welcome to my page!
 <img src = "https://media.tenor.com/A0ddDBrnbNYAAAAC/anime-pen-spin.gif">
 
 
